@@ -47,6 +47,7 @@ var detectorFactories = []string{
 	"CreateAwsInstanceInvalidKeyNameDetector",
 	"CreateAwsInstanceInvalidSubnetDetector",
 	"CreateAwsInstanceInvalidVPCSecurityGroupDetector",
+	"CreateAwsInstanceNotSpecifiedTagDetector",
 	"CreateAwsALBInvalidSecurityGroupDetector",
 	"CreateAwsALBInvalidSubnetDetector",
 	"CreateAwsALBDuplicateNameDetector",
